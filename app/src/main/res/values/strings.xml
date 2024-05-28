@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image Translator</string>
+    <string name="new_translation">New Translation</string>
+    <string name="recognized_text">Recognized Text</string>
+    <string name="translated_text">Translated Text</string>
+    <string name="new_image">New Image</string>
+    <string name="translate">Translate</string>
+    <string name="options">Options</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="recognize_text">Recognize Text</string>
+</resources>
